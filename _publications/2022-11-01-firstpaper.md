@@ -3,7 +3,7 @@ title: "Impact Analysis of Different Effective Loss Functions by Using Deep Conv
 collection: publications
 permalink: /publication/2022-11-01-firstpaper
 excerpt: ''
-date: 2009-10-01
+date: 2022-11-01
 venue: 'ICADL 2022'
 paperurl: 'https://icadl.net/icadl2022/'
 citation: ''

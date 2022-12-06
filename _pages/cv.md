@@ -34,11 +34,11 @@ Skills
 * Concepts:  Supervised and Unsupervised Machine Learning; Deep Learning;  Computer Vision; DCNN; GAN; Probabilistics and Statistics; Linear Algebra;
 * Programming env.: Python; C++; OpenCV; Windows; Linux;
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Talks
 ======

@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. Information Systems - University of Engineering and Technology, Viet Nam National University, Hanoi, 2023 (expected)
+* B.E. Information Systems - University of Engineering and Technology, Viet Nam National University, Hanoi, (Sep 2019- Jul 2023)
 
 <!-- Summer Schools/ Workshops
 ======
@@ -26,14 +26,14 @@ Education
 Work experience
 ======
 * (Remote) AI/ML Engineer - (SmartJen)[https://www.linkedin.com/company/smartjen/], Singapore -- Apr. 2023 - present
-* Research Assistant - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam -- Jan. 2022 - present
+* Undergraduate Student Researcher - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam -- Jan. 2022 - present
 * (Intern) Research AI Engineer -  (NAUTILUS TECH .,JSC)[https://www.linkedin.com/company/nautilus-tech-jsc/], Hanoi, Vietnam -- May 2022 - Oct 2022
 
   
 Skills
 ======
-* Concepts:  Supervised and Unsupervised Machine Learning; Deep Learning;  Computer Vision; DCNN; GAN; OCR; Object Detection; Object Tracking;
-* Programming env.: Python; C++;  Windows; Linux; Pytorch; TensorFlow; OpenCV;
+* Concepts:  Supervised and Unsupervised Machine Learning; Deep Learning;  Computer Vision; DCNN; GAN; OCR; Object Detection; Object Tracking; Recommendation System; Knowledge tracing.
+* Programming env.: Python; C++;  Windows; Linux; Pytorch; TensorFlow; OpenCV; AWS services; Docker;
 
 <!-- Publications
 ======

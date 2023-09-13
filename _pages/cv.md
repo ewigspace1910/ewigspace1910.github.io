@@ -25,14 +25,18 @@ Education
 
 Work experience
 ======
-* (Remote) AI/ML Engineer - (SmartJen)[https://www.linkedin.com/company/smartjen/], Singapore -- Apr. 2023 - present
-* Undergraduate Student Researcher - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam -- Jan. 2022 - present
-* (Intern) Research AI Engineer -  (NAUTILUS TECH .,JSC)[https://www.linkedin.com/company/nautilus-tech-jsc/], Hanoi, Vietnam -- May 2022 - Oct 2022
+* [SmartJen](https://www.linkedin.com/company/smartjen/) -- Singapore 
+  * (Remote) AI/ML Engineer : Apr. 2023 - present
+* [Department of Information Systems, VNU University of Engineering and Technology](https://www.facebook.com/UET.VNUH) --  Hanoi, Vietnam
+  * Teaching Assistant Aug. 2023 - Aug. 2024
+  * Undergraduate Student Researcher : Jan. 2022 - Jul. 2023
+* [NAUTILUS TECH .,JSC](https://www.linkedin.com/company/nautilus-tech-jsc/) -- Hanoi, Vietnam 
+  * (Intern) Research AI Engineer : May 2022 - Oct 2022
 
   
 Skills
 ======
-* Concepts:  Supervised and Unsupervised Machine Learning; Deep Learning;  Computer Vision; DCNN; GAN; OCR; Object Detection; Object Tracking; Recommendation System; Knowledge tracing.
+* Concepts:  Supervised and Unsupervised Machine Learning; Deep Learning;  Computer Vision; DCNN; GAN; OCR; Object Detection; Object Tracking; NLP, Recommendation System; Knowledge tracing.
 * Programming env.: Python; C++;  Windows; Linux; Pytorch; TensorFlow; OpenCV; AWS services; Docker;
 
 <!-- Publications

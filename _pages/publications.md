@@ -19,7 +19,7 @@ author_profile: true
 **Anh D. Nguyen**, Dang H. Pham, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement for Unsupervised Domain adaptation Person Re-Identification___. In *The 15th International Conference on Computational Collective Intelligence (ICCCI)*, Budapest, Hungary.  | [[DOI/PDF]](https://doi.org/10.1007/978-3-031-41456-5_45)|  |**Rank B**|
 
 
-**Anh D. Nguyen**, Dat T. Nguyen, Hanh P. Du, Hai N. Dao, Hoa N. Nguyen*. ___µPEWFace: Parallel Ensembling Weighted Deep Convolutional Neural Networks with Novel Adaptive Loss Functions for Face-based Authentication___. In *Image and Vision Computing Journal, Elsevier, (Minor Revision) .  | [[DOI/PDF]](https://authors.elsevier.com/tracking/article/details.do?aid=104819&jid=IMAVIS&surname=NGUYEN) | [[Code]](https://github.com/ewigspace1910/PEWFace) | **Q1/2** |
+**Anh D. Nguyen**, Dat T. Nguyen, Hanh P. Du, Hai N. Dao, Hoa N. Nguyen*. ___µPEWFace: Parallel Ensembling Weighted Deep Convolutional Neural Networks with Novel Adaptive Loss Functions for Face-based Authentication___. In *Image and Vision Computing Journal, Elsevier, (Minor Revision) .  | [[DOI/PDF]](https://doi.org/10.1016/j.imavis.2023.104819) | [[Code]](https://github.com/ewigspace1910/PEWFace) | **Q1/2** |
 
 
 Hanh P. Du, **Anh D. Nguyen**, Dat T. Nguyen, and Hoa N. Nguyen. ___A Novel Deep Ensemble Learning to Enhance User Authentication in Autonomous Vehicles___. In *TIEEE Transactions on Automation Science and Engineering (T-ASE)*.  | [[DOI/PDF]](https://doi.org/10.1109/TASE.2023.3270764) | [[Code]](https://github.com/ewigspace1910/PelFace) | **Q1** |

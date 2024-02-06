@@ -12,16 +12,16 @@ author_profile: true
 2024
 -----
 
-Dang H. Pham, **Anh D. Nguyen**, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement with Holistic Features for Unsupervised Domain Adaptation Person Re-Identification___. In *Knowledge-Based Systems Journal* (KBS), Elsevier .  | [[DOI/PDF]]()  | [[Code]](https://github.com/ewigspace1910/DAPRH) | **Q1** |
+Dang H. Pham, **Anh D. Nguyen**, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement with Holistic Features for Unsupervised Domain Adaptation Person Re-Identification___. In *Knowledge-Based Systems Journal* (KBS), Elsevier .  | [[DOI/PDF]](https://doi.org/10.1016/j.knosys.2024.111471)  | [[Code]](https://github.com/ewigspace1910/DAPRH) | **Q1** |
 
 2023
 -----
 
 
-Dang H. Pham, **Anh D. Nguyen**, Long, V. Van, Hoa N. Nguyen*. ___“IQAGA: Image Quality Assessment-Driven Learning with GAN-Based Dataset Augmentation for Cross-Domain Person Re-Identification___. In *In The 12th International Symposium on Information and Communication Technology (SoICT 2023)*, HCM, Vietnam. ACM, New York, NY, USA ..  | [[DOI/PDF]](https://doi.org/10.1145/3628797.3628961)|  |[[Code]](https://github.com/LongVu219/IQAGA)|
+Dang H. Pham, **Anh D. Nguyen**, Long, V. Van, Hoa N. Nguyen*. ___“IQAGA: Image Quality Assessment-Driven Learning with GAN-Based Dataset Augmentation for Cross-Domain Person Re-Identification___. In *In The 12th International Symposium on Information and Communication Technology (SoICT 2023)*, HCM, Vietnam. ACM, New York, NY, USA ..  | [[DOI/PDF]](https://doi.org/10.1145/3628797.3628961) |[[Code]](https://github.com/LongVu219/IQAGA)| 
 
 
-**Anh D. Nguyen**, Dang H. Pham, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement for Unsupervised Domain adaptation Person Re-Identification___. In *The 15th International Conference on Computational Collective Intelligence (ICCCI)*, Budapest, Hungary.  | [[DOI/PDF]](https://doi.org/10.1007/978-3-031-41456-5_45)|  |**Rank B**|
+**Anh D. Nguyen**, Dang H. Pham, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement for Unsupervised Domain adaptation Person Re-Identification___. In *The 15th International Conference on Computational Collective Intelligence (ICCCI)*, Budapest, Hungary.  | [[DOI/PDF]](https://doi.org/10.1007/978-3-031-41456-5_45)  |**Rank B**|
 
 
 **Anh D. Nguyen**, Dat T. Nguyen, Hanh P. Du, Hai N. Dao, Hoa N. Nguyen*. ___µPEWFace: Parallel Ensembling Weighted Deep Convolutional Neural Networks with Novel Adaptive Loss Functions for Face-based Authentication___. In *Image and Vision Computing Journal*, Elsevier .  | [[DOI/PDF]](https://doi.org/10.1016/j.imavis.2023.104819) | [[Code]](https://github.com/ewigspace1910/PEWFace) | **Q1/2** |

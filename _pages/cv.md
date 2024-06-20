@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-{% if author.linkedin %}
-  You can also find my newes cv version on <u><a href="{{author.linkedin}}">my Linkedin profile</a>.</u>
-{% endif %}
+==========You can also find my newes cv version on <u><a href="{{author.linkedin}}">my Linkedin profile</a>.</u>==========
 
 Education
 ======

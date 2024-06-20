@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+{% if author.linkedin %}
+  You can also find my newes cv version on <u><a href="{{author.linkedin}}">my Linkedin profile</a>.</u>
+{% endif %}
+
 Education
 ======
 * B.E. Information Systems - University of Engineering and Technology, Viet Nam National University, Hanoi, (Sep 2019- Jul 2023)
@@ -25,11 +29,12 @@ Education
 
 Work experience
 ======
-* [SmartJen](https://www.linkedin.com/company/smartjen/) -- Singapore 
-  * (Remote) AI/ML Engineer : Apr. 2023 - present
+
 * [Department of Information Systems, VNU University of Engineering and Technology](https://www.facebook.com/UET.VNUH) --  Hanoi, Vietnam
   * Teaching Assistant Aug. 2023 - Aug. 2024
   * Undergraduate Student Researcher : Jan. 2022 - Jul. 2023
+* [SmartJen](https://www.linkedin.com/company/smartjen/) -- Singapore 
+  * (Hyprid) AI/ML Engineer : Apr. 2023 - Apr. 2024
 * [NAUTILUS TECH .,JSC](https://www.linkedin.com/company/nautilus-tech-jsc/) -- Hanoi, Vietnam 
   * (Intern) Research AI Engineer : May 2022 - Oct 2022
 

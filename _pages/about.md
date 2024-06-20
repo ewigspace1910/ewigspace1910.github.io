@@ -13,4 +13,4 @@ At work, I develop methods and collaborate with coworkers to solve in the affair
 
 In my free time
 ======
-I love to travel and enjoy the outdoors, especially the beach and mountains. I enjoy getting to know new people and discovering their cultures and cuisine. I also like to spend my leisure time writing and gardening.
+I love to travel and enjoy the outdoors, especially the beach and mountains. I enjoy getting to know new people and discovering their cultures and cuisine. I also like to spend my leisure time writing and gardening. Strategic Game also intrigues me :D.

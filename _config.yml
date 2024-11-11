@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Duc-Anh"
   avatar           : "profile.png"
-  bio              : "Hi, I am a student at the VNU University of Engineering and Technology, Hanoi. My work focuses on computer vision, GAN."
+  bio              : "Hi, I am assisstant lecturer at the VNU University of Engineering and Technology, Hanoi. My work focuses on Computer Vision, Generative AI and LLM ."
   location         : "Hanoi, Vietnam"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=d18JiVsAAAAJ"
-  email            : "ducanhng.work@gmail.com"
+  email            : "ducanh.ng@vnu.edu.vn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

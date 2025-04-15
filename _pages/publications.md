@@ -7,6 +7,11 @@ author_profile: true
 
 ==========You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>================
 
+2025
+-----
+**Anh D. Nguyen**, Hye-Young Kim and Hoa N. Nguyen*. __"TALIU: A Novel Decoder and Augmentation Strategy for Boosting Tampered Document Image Detection"__ In *IEEE Access* | [[DOI/PDF]](https://doi.org/10.1109/ACCESS.2025.3560360)   | Q1 |
+
+
 2024
 -----
 

@@ -9,18 +9,16 @@ author_profile: true
 
 2025
 -----
-**Anh D. Nguyen**, Hye-Young Kim and Hoa N. Nguyen*. __"TALIU: A Novel Decoder and Augmentation Strategy for Boosting Tampered Document Image Detection"__ In *IEEE Access* | [[DOI/PDF]](https://doi.org/10.1109/ACCESS.2025.3560360)   | Q1 |
 
+**Anh D. Nguyen**, Hye-Young Kim and Hoa N. Nguyen*. __"TALIU: A Novel Decoder and Augmentation Strategy for Boosting Tampered Document Image Detection"__ In *IEEE Access* | [[DOI/PDF]](https://doi.org/10.1109/ACCESS.2025.3560360)   | Q1 |
 
 2024
 -----
-
-**Anh D. Nguyen**, Dang H. Pham, Duy B. Vu, Hoa N. Nguyen*. ___"Enhancing Unsupervised Person Re-identification with Multi-View Image Representation"___. In *the 13th International Symposium on Information and Communication Technology (SOICT 2024)* | [[DOI/PDF]]()   | **Scopus** |
+**Anh D. Nguyen**, Dang H. Pham, Duy B. Vu, Hoa N. Nguyen*. ___"Enhancing Unsupervised Person Re-identification with Multi-View Image Representation"___. In *The 13th International Symposium on Information and Communication Technology (SOICT 2024)* | [[DOI/PDF]](https://doi.org/10.1007/978-981-96-4282-3_20)   | **Scopus** |
 
 **Anh D. Nguyen**, Duc M. Nguyen,  Hoa N. Nguyen*. ___"Combination of Multiple Alignment Losses and Mutual Noise Filtering for Text-based Person Search"___. In *The 16th. International Conference on Knowledge and Systems Engineering 2024*.  | [[DOI/PDF]]()   | **Scopus** |
 
 **Anh D. Nguyen**, Dang H. Pham, Duc M. Nguyen, Hoa N. Nguyen*. ___"cMDTPS: Comprehensive Masked Modality Modeling with improved similarity distribution matching loss for Text-based Person Search"___. In *The 13th Conference on Information Technology and Its Applications* (CITA), Springer Nature Switzerland .  | [[DOI/PDF]]( https://doi.org/10.1007/978-3-031-74127-2_16)   | **Scopus** |
-
 
 Dang H. Pham, **Anh D. Nguyen**, Hoa N. Nguyen*. ___“GAN-based Data Augmentation and Pseudo-Label Refinement with Holistic Features for Unsupervised Domain Adaptation Person Re-Identification___. In *Knowledge-Based Systems Journal* (KBS), Elsevier .  | [[DOI/PDF]](https://doi.org/10.1016/j.knosys.2024.111471)  | [[Code]](https://github.com/ewigspace1910/DAPRH) | **Q1** |
 

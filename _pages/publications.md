@@ -14,6 +14,7 @@ author_profile: true
 
 2024
 -----
+
 **Anh D. Nguyen**, Dang H. Pham, Duy B. Vu, Hoa N. Nguyen*. ___"Enhancing Unsupervised Person Re-identification with Multi-View Image Representation"___. In *The 13th International Symposium on Information and Communication Technology (SOICT 2024)* | [[DOI/PDF]](https://doi.org/10.1007/978-981-96-4282-3_20)   | **Scopus** |
 
 **Anh D. Nguyen**, Duc M. Nguyen,  Hoa N. Nguyen*. ___"Combination of Multiple Alignment Losses and Mutual Noise Filtering for Text-based Person Search"___. In *The 16th. International Conference on Knowledge and Systems Engineering 2024*.  | [[DOI/PDF]]()   | **Scopus** |

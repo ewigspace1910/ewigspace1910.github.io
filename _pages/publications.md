@@ -12,6 +12,8 @@ author_profile: true
 
 **Anh D. Nguyen**, Hye-Young Kim and Hoa N. Nguyen*. __"TALIU: A Novel Decoder and Augmentation Strategy for Boosting Tampered Document Image Detection"__ In *IEEE Access* | [[DOI/PDF]](https://doi.org/10.1109/ACCESS.2025.3560360)   | Q1 |
 
+**Anh D. Nguyen**, Duc M. Nguyen and Hoa N. Nguyen*. __"Combination of Multiple Alignment Losses and Mutual Noise Filtering for Text-Based Person Search"__ In *KSE* | [[DOI/PDF]](https://doi.org/10.1109/KSE63888.2024.11063543)   | **Scopus**|
+
 2024
 -----
 

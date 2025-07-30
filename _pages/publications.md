@@ -9,14 +9,14 @@ author_profile: true
 
 2025
 -----
-**Anh D. Nguyen**, Hoa N. Nguyen*. __"Enhancing Text-Based Person Retrieval by Combining Fused Representation and Reciprocal Learning with Adaptive Loss Refinement"__ In *IEEE TIP* | [[DOI/PDF]](https://doi.org/10.1109/TIP.2025.3594880)   | [[Code]](https://github.com/ewigspace1910/TPR-UET/tree/main/3RTPR) | **Q1** (IF 13.7)|
+**Anh D. Nguyen**, Hoa N. Nguyen*. __"Enhancing Text-Based Person Retrieval by Combining Fused Representation and Reciprocal Learning with Adaptive Loss Refinement"__ In *IEEE TIP* | [[DOI/PDF]](https://doi.org/10.1109/TIP.2025.3594880)   | [[Code]](https://github.com/ewigspace1910/TPR-UET/tree/main/3RTPR) | **Q1** (IF 13.7) |
 
 **Anh D. Nguyen**, Hye-Young Kim and Hoa N. Nguyen*. __"TALIU: A Novel Decoder and Augmentation Strategy for Boosting Tampered Document Image Detection"__ In *IEEE Access* | [[DOI/PDF]](https://doi.org/10.1109/ACCESS.2025.3560360)   | Q1 |
 
 
 2024
 -----
-**Anh D. Nguyen**, Duc M. Nguyen and Hoa N. Nguyen*. __"Combination of Multiple Alignment Losses and Mutual Noise Filtering for Text-Based Person Search"__ In *KSE* | [[DOI/PDF]](https://doi.org/10.1109/KSE63888.2024.11063543)   | **Scopus**|
+**Anh D. Nguyen**, Duc M. Nguyen and Hoa N. Nguyen*. __"Combination of Multiple Alignment Losses and Mutual Noise Filtering for Text-Based Person Search"__ In *KSE* | [[DOI/PDF]](https://doi.org/10.1109/KSE63888.2024.11063543)   | **Scopus** |
 
 **Anh D. Nguyen**, Dang H. Pham, Duy B. Vu, Hoa N. Nguyen*. ___"Enhancing Unsupervised Person Re-identification with Multi-View Image Representation"___. In *The 13th International Symposium on Information and Communication Technology (SOICT 2024)* | [[DOI/PDF]](https://doi.org/10.1007/978-981-96-4282-3_20)   | **Scopus** |
 
